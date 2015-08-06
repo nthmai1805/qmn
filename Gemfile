@@ -20,6 +20,7 @@ gem 'coffee-rails', '4.1.0'
 gem 'jquery-rails', '4.0.4'
 gem 'turbolinks', '2.5.3'
 gem 'jbuilder', '2.3.1'
+gem 'test-unit'
 
 group :doc do
   gem 'sdoc', '0.4.1', require: false
